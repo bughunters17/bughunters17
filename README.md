@@ -15,9 +15,8 @@ I have experience in system and operational auditing, focusing on data integrity
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bughunters17&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bughunters17&layout=compact&theme=tokyonight)
-
+![GitHub Stats for bughunters17](https://github-readme-stats.vercel.app/api?username=bughunters17&show_icons=true&theme=tokyonight)
+![Top Languages Used by bughunters17](https://github-readme-stats.vercel.app/api/top-langs/?username=bughunters17&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠 Tech Stack
@@ -46,7 +45,6 @@ I have experience in system and operational auditing, focusing on data integrity
 ---
 
 ## 🧰 Tools & Development Environment
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 ![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver)
@@ -65,7 +63,6 @@ I have experience in system and operational auditing, focusing on data integrity
 ---
 
 ## 📚 Training & Continuous Learning
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_Training-512BD4?style=for-the-badge&logo=dotnet)
 ![AWS](https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=for-the-badge&logo=amazonaws)
@@ -86,23 +83,14 @@ I have experience in system and operational auditing, focusing on data integrity
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- Portfolio: https://YOUR_VERCEL_URL
+- GitHub: https://github.com/bughunters17
+- Portfolio: https://crzprofile.vercel.app
 
-
-
-## 📄 Resume
-My resume contains a detailed overview of my professional experience, technical skills, audit background, and training.
-
-📎 [View Resume (PDF)](assets/Resume.pdf)
 
 
 ### 🎓 Training & Certificates
 - **Power BI** – Data visualization, reporting, and analytics fundamentals  
-  📎 [View Certificate](assets/certificates/PowerBI-Certificate.pdf)
 
 - **ASP.NET Core** – Backend development, API design, and application architecture  
-  📎 [View Certificate](assets/certificates/ASPNET-Core-Training.pdf)
 
 - **AWS Fundamentals** – Cloud concepts, services overview, and deployment basics  
-  📎 [View Certificate](assets/certificates/AWS-Training.pdf)
