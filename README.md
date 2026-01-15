@@ -10,7 +10,7 @@ I have experience in system and operational auditing, focusing on data integrity
 ---
 
 ## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel)]([https://YOUR_VERCEL_URL](https://crzprofile.vercel.app))
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel)](https://crzprofile.vercel.app)
 
 ---
 
