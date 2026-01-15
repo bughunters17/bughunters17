@@ -63,12 +63,21 @@ I have experience in system and operational auditing, focusing on data integrity
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_Training-512BD4?style=for-the-badge&logo=dotnet)
 ![AWS](https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Beginner-412991?style=for-the-badge&logo=openai)
 
-- Power BI seminars and workshops  
-- ASP.NET Core training  
-- AWS fundamentals and cloud concepts  
-- Beginner-level exploration of AI & AI-assisted development  
+Learning & Development Focus
+- Power BI seminars and workshops
+- ASP.NET Core training
+- AWS fundamentals and cloud concepts
+- Docker fundamentals for containerized development
+- React.js for modern frontend development
+- Laravel for backend and enterprise application development
+- GitHub Copilot for AI-assisted coding productivity
+- Beginner-level exploration of AI & AI-assisted development
 
 ---
 
@@ -81,13 +90,4 @@ I have experience in system and operational auditing, focusing on data integrity
 
 ## 📫 Connect
 - GitHub: https://github.com/bughunters17
-- Portfolio: https://crzprofile.vercel.app
-
-
-
-### 🎓 Training & Certificates
-- **Power BI** – Data visualization, reporting, and analytics fundamentals  
-
-- **ASP.NET Core** – Backend development, API design, and application architecture  
-
-- **AWS Fundamentals** – Cloud concepts, services overview, and deployment basics  
+- Portfolio: https://crzprofile.vercel.app 
