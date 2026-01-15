@@ -69,7 +69,7 @@ I have experience in system and operational auditing, focusing on data integrity
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Beginner-412991?style=for-the-badge&logo=openai)
 
-Learning & Development Focus
+### Learning & Development Focus
 - Power BI seminars and workshops
 - ASP.NET Core training
 - AWS fundamentals and cloud concepts
@@ -89,5 +89,5 @@ Learning & Development Focus
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/bughunters17
-- Portfolio: https://crzprofile.vercel.app 
+- [GitHub](https://github.com/bughunters17)
+- [Portfolio](https://crzprofile.vercel.app)
