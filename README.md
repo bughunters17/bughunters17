@@ -17,6 +17,7 @@ I have experience in system and operational auditing, focusing on data integrity
 ## 📊 GitHub Statistics
 ![GitHub Stats for bughunters17](https://github-readme-stats.vercel.app/api?username=bughunters17&show_icons=true&theme=tokyonight)
 ![Top Languages Used by bughunters17](https://github-readme-stats.vercel.app/api/top-langs/?username=bughunters17&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🛠 Tech Stack
