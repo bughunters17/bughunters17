@@ -14,12 +14,6 @@ I have experience in system and operational auditing, focusing on data integrity
 
 ---
 
-## 📊 GitHub Statistics
-![GitHub Stats for bughunters17](https://github-readme-stats.vercel.app/api?username=bughunters17&show_icons=true&theme=tokyonight)
-![Top Languages Used by bughunters17](https://github-readme-stats.vercel.app/api/top-langs/?username=bughunters17&layout=compact&theme=tokyonight)
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -27,7 +21,7 @@ I have experience in system and operational auditing, focusing on data integrity
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
+<!-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss) -->
 
 ---
 
@@ -50,6 +44,8 @@ I have experience in system and operational auditing, focusing on data integrity
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 ![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0F172A?style=for-the-badge&logo=linux)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
 
