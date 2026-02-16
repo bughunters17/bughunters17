@@ -19,7 +19,6 @@ Hi! I'm a passionate Senior App & Website Developer with 3+ years of professiona
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel)](https://crzprofile.vercel.app)
 
 ---
-
 ## 🛠 Tech Stack
 
 **Frontend:**  
@@ -46,6 +45,9 @@ Hi! I'm a passionate Senior App & Website Developer with 3+ years of professiona
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0F172A?style=for-the-badge&logo=linux)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
+![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
 
 ---
 
